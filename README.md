@@ -1,9 +1,8 @@
-# 2024-Business-Projects
-Continuing to drive value and impact by filling a market gaps
+# Continuing to drive value and impact by filling market gaps
 
 Aiming to increase my breadth in:
-1. Different industries (Biomedical - my roots!)
-2. Analytic processes (Causal Inference)
+1. Different industries (e.g. Biomedical - my roots!)
+2. Analytic processes (e.g. Causal Inference)
 
 And planning to increase my depth in my specialty - NLP :)
-Uo first: Prompt Engineering 
+Up first: Prompt Engineering 
